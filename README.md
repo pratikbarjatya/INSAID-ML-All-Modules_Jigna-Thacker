@@ -20,6 +20,6 @@ As a part of GCD- Term3to5 Machine Learning Project, INSAID :
 ## Project Material:
 - [Database](https://github.com/jmps967/ML-All-Modules_Jigna-Thacker/blob/master/candy-data.csv)
 
-- [Link for the Jupyter notebook](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Breast_cancer_survival_JT.ipynb)
+- [Link for the Jupyter notebook](https://github.com/jmps967/ML-All-Modules_Jigna-Thacker/blob/master/Project-2-ML-1to3_JignaThacker_CandyData.ipynb)
 
 - [Presentation](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Project-1_Jigna%20Thacker.pdf)
