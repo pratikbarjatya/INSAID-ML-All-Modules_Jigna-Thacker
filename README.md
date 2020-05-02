@@ -16,3 +16,10 @@ As a part of GCD- Term3to5 Machine Learning Project, INSAID :
     - Various % points: Suger % , Price % and Win %  
 - Sample : Overall 269,000 matchups were collected from 8,371 different IP addresses. 
            CANDY-DATA.CSV contains 85 records with 9 candy features and 3 % points
+
+## Project Material:
+- [Database](https://github.com/jmps967/ML-All-Modules_Jigna-Thacker/blob/master/candy-data.csv)
+
+- [Link for the Jupyter notebook](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Breast_cancer_survival_JT.ipynb)
+
+- [Presentation](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Project-1_Jigna%20Thacker.pdf)
